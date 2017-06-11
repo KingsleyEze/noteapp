@@ -1,0 +1,13 @@
+ body
+{
+	background-image: url("/note/assets/img/background.jpg");
+	background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.note{
+	
+	background-image: url("/note/assets/img/note.jpg");
+    background-position: left top;
+    margin-top:40px;
+}
